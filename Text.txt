@@ -1,1 +1,2 @@
 This is for Git test purpose
+//this is comment ignore that
